@@ -11,7 +11,7 @@ I use rootme to upgrade my skills:
 <br>
 
 ## 💻 Projects:
-### 🕵️ Steganography:
+### 🕵️ Cryptography:
 
 ### 🎮 Games:
-Hangman Game <a href='https://github.com/MateoMonkey/HangmanGame/'>
+Hangman Game in Shell <a href='https://github.com/MateoMonkey/HangmanGame/'>
