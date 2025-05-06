@@ -15,3 +15,6 @@ I use rootme to upgrade my skills:
 
 ### 🎮 Games:
  <a href='https://github.com/MateoMonkey/HangmanGame/'> Hangman Game in Shell
+
+### 🤖 Discord bot
+<a href='https://github.com/MateoMonkey/DiscordBot/'> Discord bot in Python
